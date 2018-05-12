@@ -1,0 +1,43 @@
+_repo: Our-BoysEntertaining-Stories-by-Popular-Authors_16171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s stories'
+tableOfContents: The Cat-tail Arrow. by Bates -- He couldn't say no. -- The Christmas
+  monks. by  Wilkins -- Teddy and the echo. by Bates -- Song of the Christmas stockings.
+  by  Sidney -- Joe Lambert's ferry. by Eggleston -- The Christmas gift. by Thaxter
+  -- Some educated horses. -- Questions. by Lawrence -- The bravest boy in town. by
+  Nason -- The wolf and the goslings. by Harris -- The bishop's visit. by Nason --
+  The first step. -- Bingen on the Rhine. by Norton -- Osito. by Stealey -- The little
+  lion-charmer. by Fleming -- The boy to the schoolmaster. by Wheeler -- Won't take
+  a baff. by Eytinge -- One way to be brave. by Rollins -- The mystery of spring.
+  by Dodge -- Midsummer words. by Whitney -- Paul Revere's ride. by Longfellow --
+  Two Persian schoolboys. by Safford -- Do you know him?; The weaver of Bruges, by
+  Dinsmoor -- The man in the tub. by Stone -- The little gold miners of the sierras.
+  by Miller -- Old Godfrey's relic. by Hayne -- Evan Cogwell's ice fort. by Beman
+  -- How they brought the good news from Ghent to Aix. by Browning -- A hero. -- Teddy
+  the Teazer -- Jojo's petition. by Hall.
+title: 'Our Boys
+
+  Entertaining Stories by Popular Authors'
+url: http://www.gutenberg.org/ebooks/16171
